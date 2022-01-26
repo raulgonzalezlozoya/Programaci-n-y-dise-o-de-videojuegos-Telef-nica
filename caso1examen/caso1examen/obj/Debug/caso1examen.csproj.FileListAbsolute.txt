@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\bin\Debug\caso1examen.exe.config
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\bin\Debug\caso1examen.exe
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\bin\Debug\caso1examen.pdb
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\obj\Debug\caso1examen.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\obj\Debug\caso1examen.exe
-C:\Users\Admin\Desktop\proyectos\caso1examen\caso1examen\obj\Debug\caso1examen.pdb
