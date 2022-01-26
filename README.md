@@ -1,2 +1,5 @@
-# Programaci-n-y-dise-o-de-videojuegos-Telef-nica
-Copia de los ejercicios recuperados, de un pen drive
+# Development_programing_and_design_for_videogames
+
+Telefónica España
+
+Copia de los ejercicios recuperados
