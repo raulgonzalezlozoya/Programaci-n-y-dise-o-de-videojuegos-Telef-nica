@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\obj\Debug\caso3examen.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\obj\Debug\caso3examen.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\bin\Debug\caso3examen.exe.config
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\bin\Debug\caso3examen.exe
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\bin\Debug\caso3examen.pdb
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\obj\Debug\caso3examen.exe
-C:\Users\Admin\Desktop\proyectos\caso3examen\caso3examen\obj\Debug\caso3examen.pdb
